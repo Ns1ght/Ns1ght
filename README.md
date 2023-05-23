@@ -1,6 +1,6 @@
 ### Sup, I'm Leo.
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/uX3we5UGyU9y0/giphy.gif](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" width="100"/>
 </div>
 
 
