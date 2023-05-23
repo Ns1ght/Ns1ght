@@ -1,4 +1,8 @@
-### Hi there 👋
+### Sup, I'm Leo.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/uX3we5UGyU9y0/giphy.gif" width="100"/>
+</div>
+
 
 <!--
 **Ns1ght/Ns1ght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
