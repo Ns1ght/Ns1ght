@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Sup, I'm Leo.</h1>
-</p>
+<h1 align="center">Sup, I'm Leo.</h1>
 
 <p align="center">
   <a href="">
